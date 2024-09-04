@@ -1,8 +1,8 @@
 import React from "react";
 import Info from "./components/Info";
-import About from "./components/About";
-import Interests from "./components/Interests";
-import Footer from "./components/Footer";
+import About from "./components/about";
+import Interests from "./components/interests";
+import Footer from "./components/footer";
 
 export default function App(){
     return (
